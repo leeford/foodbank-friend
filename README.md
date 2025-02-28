@@ -21,7 +21,7 @@ I decided this could be an agent that organisations run as an initiative to help
 * Provide information on a local foodbanks, includng how to contact them
 * Provide information on what local foodbanks need, including creating a shopping list with prices
 
-# Components
+## Components
 * Copilot Studio agent
 * External connection/plugin to [GiveFood API](https://www.givefood.org.uk/api/)
 
